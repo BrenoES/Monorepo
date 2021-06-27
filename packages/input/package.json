@@ -3,6 +3,14 @@
   "version": "1.0.1-alpha.0",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:BrenoES/Monorepo.git",
+    "directory": "packages/input"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
