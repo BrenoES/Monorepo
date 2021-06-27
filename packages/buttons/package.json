@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@brenoes/button",
   "version": "1.0.2-alpha.1",
   "main": "lib/index.js",
   "module": "src/index.js",
