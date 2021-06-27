@@ -1,5 +1,5 @@
 {
-  "name": "@bes-ui/button",
+  "name": "@brenoes/button",
   "version": "1.0.2-alpha.4",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -21,5 +21,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "d8c8cf705d0e9edc4089a2351c258f9bda04a865"
+  "gitHead": "f698bfb0cf951d61f97d02bb67ffbc00c4ef41be"
 }
